@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,6 +23,7 @@ Experience Highlights
  
 * 2017-2019: Assistant Editor
   * BMC Series Journals, Springer Nature
+  * Blog: [Highlights of the BMC Series: January 2019](https://blogs.biomedcentral.com/bmcseriesblog/2019/02/14/highlights-bmc-series-january-2019/)
   
 * 2017-2019: Technical Aide
   * 3M Company, Corporate Research Materials Laboratory Biomaterials Group 
@@ -65,17 +66,17 @@ Research Symposium, 2014
   
 Service and Leadership
 ======
-* Cornell Graduate Womxn in Science Executive Board
+* [Cornell Graduate Womxn in Science](https://gwiscornell.wordpress.com/) Executive Board
   * Treasurer, 2020-present
   * Community Outreach Chair, 2019-2020
-* Copy Editor and Sports Editor *The Oracle* Student Newspaper Hamline University, 2014-2016
+* Copy Editor and Sports Editor, *The Oracle* Student Newspaper Hamline University, 2014-2016
 * Volunteer Inpatient Pharmacy, University of Minnesota Medical Center, 2015
 * Volunteer Pediatric ER, Transport Pool, and Pre/Post Surgery Desk, Fairview Ridges Hospital, 2010-2014
 
 Skills
 ======
-Computational Skills: genome assembly, genome annotation, phylogenetic reconstruction, data parsing, data visualization, data management, version control using GitHub/git
-&nbsp;&nbsp;&nbsp;Languages: Python, Bash/Unix shell, Markdown, R
+Computational Skills: genome assembly, genome annotation, phylogenetic reconstruction, data parsing, data visualization, data management, version control using GitHub/git  
+&nbsp;&nbsp;&nbsp;Languages: Python, Bash/Unix shell, Markdown, R  
 Laboratory: aerobic/micro-aerobic bacterial culturing, bacterial transformation, PCR, nucleic acid isolation 
 
 Awards and Honors
