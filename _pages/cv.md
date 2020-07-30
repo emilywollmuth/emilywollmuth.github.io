@@ -66,27 +66,27 @@ To download the full CV [click here](https://github.com/emilywollmuth/emilywollm
 *	The President’s Volunteer Service Award, 2013
 
 ## Patents
-* A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, E.M. Wollmuth, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
+* A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, **E.M. Wollmuth**, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
 
 ## Conference Presentations
-* Wollmuth, E.M., Martin, P.F. (2017) A Survey of Beta-lactam Antibiotic Resistance in Minnesota Soils, Presented at the National Conference for Undergraduate Research 2017, Memphis, Tennessee, USA. 
-* Wollmuth, E.M., Deffenbacher, K. (2017) Misapplications of Darwin’s Origin of Species: Nazi Germany and the Eugenics Movement, Presented at the National Conference for Undergraduate Research 2017, Memphis, Tennessee, USA.
-* Wollmuth, E.M., Sannino, D., Angert, E.R. (2016) The impact of thiaminase I on fitness and survival in bacterial interactions, Presented at the Cornell Summer Institute for Life Sciences Sixth Annual Undergraduate Symposium 2016, Ithaca, New York, USA. 
-* Wollmuth, E.M., Martin, P.F. (2016) A Survey of Beta-lactam Antibiotic Resistance in Minnesota Soils, Presented at the National Conference for Undergraduate Research 2016, Asheville, North Carolina, USA. 
-* Wollmuth, E.M., Thrun, L.A., Martin, P.F. (2015) Ampicillin Resistance in Gram-negative and Gram-positive Bacteria, Presented at the National Conference for Undergraduate Research 2015, Cheney, Washington, USA. 
-* Wollmuth, E.M., Thrun, L.A., Martin, P.F. (2014) Ampicillin Resistance in Gram-negative and Gram-positive Bacteria, Presented at the Seven Rivers Undergraduate Research Symposium 2014, La Crosse, Wisconsin, USA. 
+* **Wollmuth, E.M.**, Martin, P.F. (2017) A Survey of Beta-lactam Antibiotic Resistance in Minnesota Soils, Presented at the National Conference for Undergraduate Research 2017, Memphis, Tennessee, USA. 
+* **Wollmuth, E.M.**, Deffenbacher, K. (2017) Misapplications of Darwin’s Origin of Species: Nazi Germany and the Eugenics Movement, Presented at the National Conference for Undergraduate Research 2017, Memphis, Tennessee, USA.
+* **Wollmuth, E.M.**, Sannino, D., Angert, E.R. (2016) The impact of thiaminase I on fitness and survival in bacterial interactions, Presented at the Cornell Summer Institute for Life Sciences Sixth Annual Undergraduate Symposium 2016, Ithaca, New York, USA. 
+* **Wollmuth, E.M.**, Martin, P.F. (2016) A Survey of Beta-lactam Antibiotic Resistance in Minnesota Soils, Presented at the National Conference for Undergraduate Research 2016, Asheville, North Carolina, USA. 
+* **Wollmuth, E.M.**, Thrun, L.A., Martin, P.F. (2015) Ampicillin Resistance in Gram-negative and Gram-positive Bacteria, Presented at the National Conference for Undergraduate Research 2015, Cheney, Washington, USA. 
+* **Wollmuth, E.M.**, Thrun, L.A., Martin, P.F. (2014) Ampicillin Resistance in Gram-negative and Gram-positive Bacteria, Presented at the Seven Rivers Undergraduate Research Symposium 2014, La Crosse, Wisconsin, USA. 
 
 ## Theses
-* Wollmuth, Emily M., “A Survey of β-lactam Antibiotic Resistance Genes and Culturable Ampicillin
+* **Wollmuth, Emily M.**, “A Survey of β-lactam Antibiotic Resistance Genes and Culturable Ampicillin
 Resistant Bacteria in Minnesota Soils” (2017). Departmental Honors Projects. 53.
 [https://digitalcommons.hamline.edu/dhp/53](https://digitalcommons.hamline.edu/dhp/53)
-* Wollmuth, Emily M., “Darwinian Evolutionary Theory and Constructions of Race in Nazi Germany: A
+* **Wollmuth, Emily M.**, “Darwinian Evolutionary Theory and Constructions of Race in Nazi Germany: A
 Literary and Cultural Analysis of Darwin’s Works and Nazi Rhetoric” (2017). Departmental Honors
 Projects. 67.
 [https://digitalcommons.hamline.edu/dhp/67](https://digitalcommons.hamline.edu/dhp/67)
 
 ## Blogs
-* Wollmuth, Emily, Highlights of the BMC Series: January 2019. BMC Series blog, 14 Feb. 2019,
+* **Wollmuth, Emily**, Highlights of the BMC Series: January 2019. BMC Series blog, 14 Feb. 2019,
 [https://blogs.biomedcentral.com/bmcseriesblog/2019/02/14/highlights-bmc-series-january-2019/](https://blogs.biomedcentral.com/bmcseriesblog/2019/02/14/highlights-bmc-series-january-2019/)
 
 ## Skills
