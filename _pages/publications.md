@@ -25,6 +25,8 @@ Wollmuth, Emily M., “Darwinian Evolutionary Theory and Constructions of Race i
 
 ## Patents
 
+### [Oral Articles and Methods of Use](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606)
+
 A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, E.M. Wollmuth, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
 
 
