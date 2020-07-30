@@ -66,7 +66,7 @@ To download the full CV [click here](https://github.com/emilywollmuth/emilywollm
 *	The President’s Volunteer Service Award, 2013
 
 ## Patents
-* A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, E.M. Wollmuth, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent WO/2020/136606, 2020 July 7.
+* A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, E.M. Wollmuth, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
 
 ## Conference Presentations
 * Wollmuth, E.M., Martin, P.F. (2017) A Survey of Beta-lactam Antibiotic Resistance in Minnesota Soils, Presented at the National Conference for Undergraduate Research 2017, Memphis, Tennessee, USA. 
