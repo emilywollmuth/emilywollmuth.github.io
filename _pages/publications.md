@@ -29,9 +29,9 @@ An honors thesis in English, published 2017
 
 [Click here](https://digitalcommons.hamline.edu/cgi/viewcontent.cgi?article=1066&context=dhp) to download.
 
-##### You can also find my work on my [Google Scholar profile](https://scholar.google.com/citations?user=O2VLJqgAAAAJ&hl=en).
-
-
 ## Blogs
 
 **Wollmuth, Emily**, Highlights of the BMC Series: January 2019. BMC Series blog, 14 Feb. 2019, https://blogs.biomedcentral.com/bmcseriesblog/2019/02/14/highlights-bmc-series-january-2019/
+
+
+##### You can also find my work on my [Google Scholar profile](https://scholar.google.com/citations?user=O2VLJqgAAAAJ&hl=en).
