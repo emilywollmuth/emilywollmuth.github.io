@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Patents
+
+### [Oral Articles and Methods of Use](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606)
+
+A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, **E.M. Wollmuth**, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
+
 ## Theses
 
 ### [A Survey of β-lactam Antibiotic Resistance Genes and Culturable Ampicillin Resistant Bacteria in Minnesota Soils](https://digitalcommons.hamline.edu/dhp/53)
@@ -23,11 +29,9 @@ An honors thesis in English, published 2017
 
 [Click here](https://digitalcommons.hamline.edu/cgi/viewcontent.cgi?article=1066&context=dhp) to download.
 
-## Patents
-
-### [Oral Articles and Methods of Use](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606)
-
-A.C. Engler, K.F. Wlaschin, H.C. Cohen, Y. Yang, T.T. Ton, J. Yang, J.D. Oxman, **E.M. Wollmuth**, inventors; 3M Innovative Properties Company, assignee. Oral Articles and Methods of Use, World patent [WO/2020/136606](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020136606), 2020 July 7.
-
-
 ##### You can also find my work on my [Google Scholar profile](https://scholar.google.com/citations?user=O2VLJqgAAAAJ&hl=en).
+
+
+## Blogs
+
+**Wollmuth, Emily**, Highlights of the BMC Series: January 2019. BMC Series blog, 14 Feb. 2019, https://blogs.biomedcentral.com/bmcseriesblog/2019/02/14/highlights-bmc-series-january-2019/
